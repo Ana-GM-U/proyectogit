@@ -1,7 +1,7 @@
 public class hello {
     
     public static void main(String[] args){
-        System.out.println("new hellogitthub");
+        System.out.println("new hellogitthubu");
     }
  //bfvbk,g{fdsxz}
 }
